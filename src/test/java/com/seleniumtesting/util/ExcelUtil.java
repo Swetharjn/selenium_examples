@@ -1,4 +1,4 @@
-package com.artoftesting.util;
+package com.seleniumtesting.util;
 
 
 import java.io.FileInputStream;

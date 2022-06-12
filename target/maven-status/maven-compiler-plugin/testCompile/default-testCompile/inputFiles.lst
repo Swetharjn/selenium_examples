@@ -1,3 +1,4 @@
-F:\training\workspace\AutomationFramework\src\test\java\com\artoftesting\base\TestBase.java
-F:\training\workspace\AutomationFramework\src\test\java\com\artoftesting\test\SauceDemoLoginTest.java
-F:\training\workspace\AutomationFramework\src\test\java\com\artoftesting\pages\SauceDemoLoginPage.java
+C:\Users\srajan\Projects\SeleniumWebDriverFW\src\test\java\com\seleniumtesting\base\PageBase.java
+C:\Users\srajan\Projects\SeleniumWebDriverFW\src\test\java\com\seleniumtesting\config\XmlParameterValidator.java
+C:\Users\srajan\Projects\SeleniumWebDriverFW\src\test\java\com\seleniumtesting\base\TestBase.java
+C:\Users\srajan\Projects\SeleniumWebDriverFW\src\test\java\com\seleniumtesting\util\ExcelUtil.java

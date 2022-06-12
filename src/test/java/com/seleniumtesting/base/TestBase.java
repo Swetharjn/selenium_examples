@@ -1,4 +1,4 @@
-package com.artoftesting.base;
+package com.seleniumtesting.base;
 
 import java.io.File;
 import java.io.IOException;
@@ -8,8 +8,7 @@ import java.util.Map;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
-import com.artoftesting.config.XmlParameterValidator;
-import com.google.common.base.Verify;
+import com.seleniumtesting.config.XmlParameterValidator;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;

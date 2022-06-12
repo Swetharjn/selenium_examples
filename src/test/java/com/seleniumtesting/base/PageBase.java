@@ -1,4 +1,4 @@
-package com.artoftesting.base;
+package com.seleniumtesting.base;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;

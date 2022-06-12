@@ -1,4 +1,4 @@
-package com.artoftesting.config;
+package com.seleniumtesting.config;
 
 import org.slf4j.LoggerFactory;
 
